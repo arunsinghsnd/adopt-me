@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import ReactDOM from "react-dom";
 import Pet from "./Pet";
 import SearchParams from "./SearchParams";
+// import Counter from "./Counter";
+// import Internet from "./Internet";
 
 // const Fruits = () => {
 //   return React.createElement("div", {}, [
@@ -45,6 +47,8 @@ const App = () => {
       <Pet name="Pepper" animal="Bird" breed="Cockatiel" />
       <Pet name="Sudo" animal="Dog" breed="Wheaten Terrier" /> */}
       <SearchParams />
+      {/* <Counter />
+      <Internet /> */}
     </div>
   );
 };

@@ -2,6 +2,8 @@
 
 This is a Web App which is designed with Reactjs which covers alot of basic core concept of Reactjs
 
+Learn to build real-world applications using modern React! Much more than an intro, you’ll start from the ground up, getting to using the latest features in React, including hooks, effects, context, and portals. Throughout this web app, you’ll piece together tools from the entire React ecosystem (like Parcel, ESLint, Prettier, and React Router) to build a complete application to browse adoptable pets!
+
 1. JSX
 2. Hooks
 3. useEffect
